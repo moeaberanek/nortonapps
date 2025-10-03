@@ -1,2 +1,3 @@
-Welcome to Symntic Nort Screen
+Welcome to Symantic Nort Screen
 ===================================================================================
+
