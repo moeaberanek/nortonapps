@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Symant Nort Screen'
+project = 'Cannon Launch Pad'
 copyright = '2025'
-author = 'Ilona Bardugo'
+author = 'Muriel Resnik'
 
 release = '1.0'
 
@@ -21,7 +21,3 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
-
-
-
-
